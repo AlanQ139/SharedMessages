@@ -1,0 +1,12 @@
+C:\WorkSpace\PosTech\Tech Challenge\SharedMessages\bin\Debug\net9.0\SharedMessages.deps.json
+C:\WorkSpace\PosTech\Tech Challenge\SharedMessages\bin\Debug\net9.0\SharedMessages.dll
+C:\WorkSpace\PosTech\Tech Challenge\SharedMessages\bin\Debug\net9.0\SharedMessages.pdb
+C:\WorkSpace\PosTech\Tech Challenge\SharedMessages\obj\Debug\net9.0\SharedMessages.csproj.AssemblyReference.cache
+C:\WorkSpace\PosTech\Tech Challenge\SharedMessages\obj\Debug\net9.0\SharedMessages.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpace\PosTech\Tech Challenge\SharedMessages\obj\Debug\net9.0\SharedMessages.AssemblyInfoInputs.cache
+C:\WorkSpace\PosTech\Tech Challenge\SharedMessages\obj\Debug\net9.0\SharedMessages.AssemblyInfo.cs
+C:\WorkSpace\PosTech\Tech Challenge\SharedMessages\obj\Debug\net9.0\SharedMessages.csproj.CoreCompileInputs.cache
+C:\WorkSpace\PosTech\Tech Challenge\SharedMessages\obj\Debug\net9.0\SharedMessages.dll
+C:\WorkSpace\PosTech\Tech Challenge\SharedMessages\obj\Debug\net9.0\refint\SharedMessages.dll
+C:\WorkSpace\PosTech\Tech Challenge\SharedMessages\obj\Debug\net9.0\SharedMessages.pdb
+C:\WorkSpace\PosTech\Tech Challenge\SharedMessages\obj\Debug\net9.0\ref\SharedMessages.dll

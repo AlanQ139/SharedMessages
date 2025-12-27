@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\WorkSpace\\PosTech\\Tech Challenge\\SharedMessages\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7109D251-08DD-438D-A4AC-ACD3AC0BFBE8}|SharedMessages.csproj|c:\\workspace\\postech\\tech challenge\\sharedmessages\\contracts\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7109D251-08DD-438D-A4AC-ACD3AC0BFBE8}|SharedMessages.csproj|solutionrelative:contracts\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Messages.cs",
+              "DocumentMoniker": "C:\\WorkSpace\\PosTech\\Tech Challenge\\SharedMessages\\Contracts\\Messages.cs",
+              "RelativeDocumentMoniker": "Contracts\\Messages.cs",
+              "ToolTip": "C:\\WorkSpace\\PosTech\\Tech Challenge\\SharedMessages\\Contracts\\Messages.cs",
+              "RelativeToolTip": "Contracts\\Messages.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T19:35:17.111Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
