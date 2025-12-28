@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\WorkSpace\\PosTech\\Tech Challenge\\SharedMessages\\SharedMessages.csproj",
-        "projectName": "SharedMessages",
+        "projectName": "FiapCloud.SharedMessages",
         "projectPath": "C:\\WorkSpace\\PosTech\\Tech Challenge\\SharedMessages\\SharedMessages.csproj",
         "packagesPath": "C:\\Users\\alanq\\.nuget\\packages\\",
         "outputPath": "C:\\WorkSpace\\PosTech\\Tech Challenge\\SharedMessages\\obj\\",

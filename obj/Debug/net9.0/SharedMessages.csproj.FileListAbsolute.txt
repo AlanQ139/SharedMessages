@@ -6,6 +6,7 @@ C:\WorkSpace\PosTech\Tech Challenge\SharedMessages\obj\Debug\net9.0\SharedMessag
 C:\WorkSpace\PosTech\Tech Challenge\SharedMessages\obj\Debug\net9.0\SharedMessages.AssemblyInfoInputs.cache
 C:\WorkSpace\PosTech\Tech Challenge\SharedMessages\obj\Debug\net9.0\SharedMessages.AssemblyInfo.cs
 C:\WorkSpace\PosTech\Tech Challenge\SharedMessages\obj\Debug\net9.0\SharedMessages.csproj.CoreCompileInputs.cache
+C:\WorkSpace\PosTech\Tech Challenge\SharedMessages\obj\Debug\net9.0\SharedMessages.sourcelink.json
 C:\WorkSpace\PosTech\Tech Challenge\SharedMessages\obj\Debug\net9.0\SharedMessages.dll
 C:\WorkSpace\PosTech\Tech Challenge\SharedMessages\obj\Debug\net9.0\refint\SharedMessages.dll
 C:\WorkSpace\PosTech\Tech Challenge\SharedMessages\obj\Debug\net9.0\SharedMessages.pdb
